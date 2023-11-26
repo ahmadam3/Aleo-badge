@@ -124,14 +124,17 @@ https://github.com/AleoHQ/leo/issues
 
 ![photo_2023-11-26_19-52-58](https://github.com/ahmadam3/aleojon/assets/56671244/9a75cc3e-4df7-4a29-83a3-b7648e5c2028)
 
+
 طبق تصویر زیر مواردی که به رنگ آبی هست پاک کنید
 
 ![photo_2023-11-26_19-53-03](https://github.com/ahmadam3/aleojon/assets/56671244/6f4b7e14-38c1-4d8b-bd93-cb30a68387a4)
+
 
 تمام مارد مشخص شده در تصویر زیر را ادیت کنید
 
 
 ![photo_2023-11-26_19-53-07](https://github.com/ahmadam3/aleojon/assets/56671244/3cc56a00-3c2b-4567-8953-851e16ecc4a9)
+
 
 
 
