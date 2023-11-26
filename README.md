@@ -19,6 +19,7 @@
   1: دانلود و نصب leo
 
    1.1 نصب rust
+  
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
    
