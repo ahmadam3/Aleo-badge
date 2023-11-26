@@ -21,7 +21,6 @@
    1.1 نصب rust
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-   ![photo_4_2023-11-26_19-53-20](https://github.com/ahmadam3/aleojon/assets/56671244/7d25cea7-1a8d-4383-b85f-ae5c10584070)
    
 بعد از اجرای این کد 1 و اینتر را بزنید
 
@@ -41,7 +40,6 @@ cargo install --path .
 بعد از وارد کردن این دستور فرایند نصب شروع میشود و با توجه به سرعت اینترنت شما این فرایند بین 10 الی 20 دقیق طول میکشد
 
 در نهایت بعد از اتمام نصب دستور leo help را وارد کنید و اگر با تصویر زیر روبرو شدید نصب شما موفق بوده است
-![photo_1_2023-11-26_19-53-20](https://github.com/ahmadam3/aleojon/assets/56671244/d7ef6642-0e93-4278-81fd-b87c0f074830)
 
 
 **2.آموزش کار با leo**
@@ -121,6 +119,19 @@ git push -u origin main
 
 
 باقی مراحل رو طبق تصاویر دنبال کنید
+وارد لینک زیر بشید
+https://github.com/AleoHQ/leo/issues
+
+![photo_2023-11-26_19-52-58](https://github.com/ahmadam3/aleojon/assets/56671244/9a75cc3e-4df7-4a29-83a3-b7648e5c2028)
+
+طبق تصویر زیر مواردی که به رنگ آبی هست پاک کنید
+
+![photo_2023-11-26_19-53-03](https://github.com/ahmadam3/aleojon/assets/56671244/6f4b7e14-38c1-4d8b-bd93-cb30a68387a4)
+
+تمام مارد مشخص شده در تصویر زیر را ادیت کنید
+
+
+![photo_2023-11-26_19-53-07](https://github.com/ahmadam3/aleojon/assets/56671244/3cc56a00-3c2b-4567-8953-851e16ecc4a9)
 
 
 
