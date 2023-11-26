@@ -5,6 +5,7 @@
 ابتدا باید 2 پیش نیاز رو نصب کنیم
 
 
-1. Install Git Bash (Follow instructions for Windows)
-2. Install the components you need for building C and C++ apps
+1. Install (https://git-scm.com/downloads)
+. مراحل نصب برای ویندوز را انجام دهید
+2. Install [(https://visualstudio.microsoft.com/vs/features/cplusplus/)](https://visualstudio.microsoft.com/vs/features/cplusplus/)https://visualstudio.microsoft.com/vs/features/cplusplus/
 
