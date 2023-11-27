@@ -8,7 +8,7 @@
 1. Install (https://git-scm.com/downloads)
 . مراحل نصب برای ویندوز را انجام دهید
 2. Install https://visualstudio.microsof
-3. t.com/vs/features/cplusplus/
+
    این مورد رو هم نصب کنبد
 
 
