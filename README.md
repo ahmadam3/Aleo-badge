@@ -22,6 +22,7 @@
   
    `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 `
+
    
 بعد از اجرای این کد 1 و اینتر را بزنید
 
@@ -31,17 +32,20 @@
 
 `git clone https://github.com/AleoHQ/leo`
 
+
 سپس 
 `cd leo`
+
 
 1.3 نصب leo
 
 `cargo install --path .
 `
 
+
 بعد از وارد کردن این دستور فرایند نصب شروع میشود و با توجه به سرعت اینترنت شما این فرایند بین 10 الی 20 دقیق طول میکشد
 
-در نهایت بعد از اتمام نصب دستور leo help را وارد کنید و اگر با تصویر زیر روبرو شدید نصب شما موفق بوده است
+در نهایت بعد از اتمام نصب دستور `leo help` را وارد کنید و اگر با تصویر زیر روبرو شدید نصب شما موفق بوده است
 
 
 **2.آموزش کار با leo**
@@ -49,24 +53,30 @@
 2.1 ساخت ولت جدید
 `leo account new
 `
+
 یا ایمپورت ولت قدیمی 
 
 `leo account import YOUR_Private_Key
 `
+
 به جای YOUR_PRIVATE_KEY شما باید کلید خصوصی خودتون رو قرار بدید
 
 2.2 با دستور زیر چند نمونه از مثالهای آماده رو میتونید مشاهده کنید و به دلخواه یکی رو انتخاب کنید
 `leo example
 `
+
 2.3 ما از تیک تاک استفاده میکنیم با دستور زیر
 `leo example tictactoe
 `
 
+
 2.4 حالا با دستورات زیر میتونید برنامه رو ران منید و مشاهده کنید
 `cd tictactoe
 `
+
 `leo run new
 `
+
 
 **3. حالا این برنامرو به گیتهاب خودمون هم انتقال بدیم**
 
@@ -74,18 +84,23 @@
 
 `cd tictactoe
 `
+
 `git init -b main
 `
+
 `git add .
 `
+
 3.2 قبل از ساخت کامیت نیاز هست که شما ایمیل حساب کیتکوین خودتون رو داخل ترمینالتون ثبت کنید
 
 `git config --global user.email mail@.com
 `
+
 به جای mail@.com ایمیل خودتون رو قرار بدید 
 
 `git config --global user.name your_username
 `
+
 به جای your_username هم یوزرنیم گیتهاب خودتون رو قرار بدید
 
 
@@ -108,14 +123,18 @@
 
 `git branch -m main
 `
+
 `git remote add origin YOUR_REPOSITORY_LINK
 `
+
 به جای عبارت YOUR_REPOSITORY_LINK شما باید لینک کپی شده از repo خودتون رو قرار بدید
 
 `git remote -v
 `
+
 `git push -u origin main
 `
+
 بسیار عالی بعد اتمام این مراحل repo شما ساخته شد و حالا باید برید و اون رو در issue گیتهاب aleo ثبت کنید
 
 
