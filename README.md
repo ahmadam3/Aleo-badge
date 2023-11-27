@@ -20,8 +20,8 @@
 
    1.1 نصب rust
   
-   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
+   `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+`
    
 بعد از اجرای این کد 1 و اینتر را بزنید
 
@@ -29,7 +29,7 @@
 
 1.2 دانلود سورس کد leo
 
-git clone https://github.com/AleoHQ/leo
+`git clone https://github.com/AleoHQ/leo`
 
 سپس 
 cd leo
