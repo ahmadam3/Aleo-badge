@@ -7,7 +7,7 @@
 
 1. Install (https://git-scm.com/downloads)
 . مراحل نصب برای ویندوز را انجام دهید
-2. Install https://visualstudio.microsof
+2. Install https://visualstudio.microsoft
 
    این مورد رو هم نصب کنبد
 
